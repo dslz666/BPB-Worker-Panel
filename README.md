@@ -1,72 +1,51 @@
-<h1 align="center">💦 BPB Panel</h1>
-
-### 🌏 Readme in [Farsi](README_fa.md)
-
-<p align="center">
-  <img src="docs/assets/images/Panel.jpg">
-</p>
-<br>
-
-## Introduction
-This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) created by [yonggekkk](https://github.com/yonggekkk). The panel offers two deployment options: 
-- **Worker** deployment
-- **Pages** deployment
-<br>
-
-🌟 If you found **BPB Panel** valuable, Your donations make all the difference 🌟
-- **USDT (BEP20):** `0x111EFF917E7cf4b0BfC99Edffd8F1AbC2b23d158`
-
-## Features
-
-1. **Free**: No cost involved.
-2. **User-Friendly Panel:** Designed for easy navigation, configuration and usage.
-3. **Support Fragment:** Provides support for fragment functionality.
-4. **Block Ads. and Porn (Optional)**
-5. **Bypass Iran and LAN (Optional)**
-6. **Full routing rules:** Bypassing Iran, Blocking Ads, Malwares, Phishing... for Sing-box.
-7. **Chain Proxy:** Capable of adding a chain proxy to fix IP.
-8. **Supports Wide Range of Clients:** Offers subscription links for Xray and Sing-box core clients.
-9. **Subscription Link (JSON):** Provides subscription link for JSON configs.
-10. **Password-Protected Panel:** Secure your panel with password protection.
-11. **Custom Cloudflare Clean IP:** Ability to use online scanner and setting up clean IP-domains.
-12. **Warp configs:** Provides Warp and Warp on Warp subscription.
-<br>
-
-## How to use:
-- [Installation (Pages)](docs/pages_installation_fa.md)
-
-- [Installation (Worker)](docs/worker_installation_fa.md)
-
-- [How to use](docs/configuration_fa.md)
-
-- [FAQ](docs/faq.md)
-<br>
-
-## Supported Clients
-| Client  | Version | Fragment |
-| :-------------: | :-------------: | :-------------: |
-| **v2rayNG**  | 1.8.19 or higher  | :heavy_check_mark: |
-| **v2rayN**  | 6.42 or higher  | :heavy_check_mark: |
-| **Nekobox**  |   | :x: |
-| **Sing-box**  | 1.8.10 or higher  | :x: |
-| **Streisand**  |   | :heavy_check_mark: |
-| **V2Box**  |   | :x: |
-| **Shadowrocket**  |   | :x: |
-| **Nekoray**  |   | :heavy_check_mark: |
-| **Hiddify**  |   | :x: |
 
 
----
+停止更新，暂停仓库, 停止使用仓库
+该项目用于设计和开发仅供学习、研究和安全测试目的
 
-## Stargazers Over Time
-[![Stargazers Over Time](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel.svg?variant=adaptive)](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel)
+停止更新，暂停仓库, 停止使用仓库
 
----
+停止更新，暂停仓库, 停止使用仓库
 
-### Special Thanks
-- CF-vless code author [3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)
-- CF preferred IP program author [badafans](https://github.com/badafans/Cloudflare-IP-SpeedTest), [XIU2](https://github.com/XIU2/CloudflareSpeedTest)
+停止更新，暂停仓库, 停止使用仓库
 
----
+停止更新，暂停仓库, 停止使用仓库
 
-For a detailed tutorial on the core script, please refer to [Yongge’s blog and video tutorials](https://ygkkk.blogspot.com/2023/07/cfworkers-vless.html).
+停止更新，暂停仓库, 停止使用仓库
+
+
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+停止更新，暂停仓库, 停止使用仓库
+
+
+
+用途
+该项目被设计和开发仅供学习、研究和安全测试目的。它旨在为安全研究者、学术界人士和技术爱好者提供一个了解和实践网络通信技术的工具。
+
+合法性
+使用者在下载和使用该项目时，必须遵守当地法律和规定。使用者有责任确保他们的行为符合其所在地区的法律、规章以及其他适用的规定。
+
+免责
+作为该项目的作者，我（以下简称“作者”）强调该项目应仅用于合法、道德和教育目的。
+作者不鼓励、不支持也不促进任何形式的非法使用该项目。如果发现该项目被用于非法或不道德的活动，作者将强烈谴责这种行为。
+作者对任何人或团体使用该项目进行的任何非法活动不承担责任。使用者使用该项目时产生的任何后果由使用者本人承担。
+作者不对使用该项目可能引起的任何直接或间接损害负责。
+通过使用该项目，使用者表示理解并同意本免责声明的所有条款。如果使用者不同意这些条款，应立即停止使用
